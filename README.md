@@ -31,9 +31,3 @@ DropBox Paper gets this right, it is possible. Until Atlassian get their shit to
 
 - Windows: `start index.html`
 - Unix: `open index.html`
-
-## Contributing
-
-[Read the note list](./doc/notes.md)
-
-[PR the task list](/doc/tasks.md)
